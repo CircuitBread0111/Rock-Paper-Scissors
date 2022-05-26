@@ -1,5 +1,5 @@
 #////////////////////////////
-#   Rock_Paper_Scissors.py
+# Rock_Paper_Scissors.py
 # Author: Jerrin C. Redmon
 # Date: May 22, 2022
 #////////////////////////////
